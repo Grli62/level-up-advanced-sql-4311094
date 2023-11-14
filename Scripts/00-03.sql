@@ -1,5 +1,5 @@
 SELECT firstName, lastName, title
-FROM employee
+FROM employee x
 LIMIT 5;
 
 GO
